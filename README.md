@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: a Django-based project<br>👯 I’m looking to collaborate on: web projects using Django, React, etc.<br>🤝 I’m looking for help with: improving MERN stack projects.<br>🌱 I’m currently learning: MERN and Django deeply.<br>⚡ Fun fact: Once involved in anything, wont let me turning back.🤓📈
+🔭 I’m currently working on: a MERN based project<br>👯 I’m looking to collaborate on: web projects using Django, React, etc.<br>🤝 I’m looking for help with: improving MERN stack projects.<br>🌱 I’m currently learning: MERN and Django deeply.<br>⚡ Fun fact: Once involved in anything, wont let me turning back.🤓📈
 
 
 # 💻 Tech Stack:
